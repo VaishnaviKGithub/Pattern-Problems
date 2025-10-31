@@ -1,5 +1,6 @@
 This file contains the problem on patterns and accordingly the solutions are provided.
 1. Pattern1
+   
    AbCdE
     AbCd
      AbC
@@ -10,7 +11,7 @@ This file contains the problem on patterns and accordingly the solutions are pro
     AbCd
    AbCdE
 
-2. Pattern2
+3. Pattern2
 
     5
    545
@@ -18,7 +19,7 @@ This file contains the problem on patterns and accordingly the solutions are pro
  5432345
 543212345
 
-3. Pattern3
+4. Pattern3
 
 543212345
  5432345
